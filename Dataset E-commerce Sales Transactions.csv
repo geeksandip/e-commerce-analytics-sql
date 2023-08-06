@@ -1,0 +1,9 @@
+transaction_id,customer_id,product_id,product_name,category,quantity,price,transaction_date,country
+1,101,201,Laptop,Electronics,1,1000,01-08-2023,USA
+2,102,202,Smartphone,Electronics,2,700,02-08-2023,UK
+3,103,203,Headphones,Electronics,3,50,02-08-2023,USA
+4,101,204,TV,Electronics,1,800,03-08-2023,USA
+5,104,205,T-shirt,Clothing,5,20,04-08-2023,Germany
+6,105,206,Shoes,Clothing,2,60,05-08-2023,France
+7,103,207,Backpack,Accessories,1,30,05-08-2023,USA
+8,106,208,Watch,Accessories,1,100,06-08-2023,UK
